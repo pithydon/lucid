@@ -1,6 +1,14 @@
+furniture:chair_wood sides furniture_chair_wood_side.png
+furniture:stool_wood sides furniture_chair_wood_side.png
 furniture:table_wood top default_chest_top.png
 furniture:table_wood bottom default_chest_top.png
 furniture:table_wood sides furniture_table_wood_side.png
 furniture:table_junglewood top furniture_table_junglewood_top.png
 furniture:table_junglewood bottom furniture_table_junglewood_top.png
 furniture:table_junglewood sides furniture_table_junglewood_side.png
+furniture:table_acacia_wood top furniture_table_acacia_wood_top.png
+furniture:table_acacia_wood bottom furniture_table_acacia_wood_top.png
+furniture:table_acacia_wood sides furniture_table_acacia_wood_side.png
+furniture:table_aspen_wood top furniture_table_aspen_wood_top.png
+furniture:table_aspen_wood bottom furniture_table_aspen_wood_top.png
+furniture:table_aspen_wood sides furniture_table_aspen_wood_side.png
