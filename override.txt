@@ -43,4 +43,8 @@ furniture:stool_pine_wood sides furniture_chair_pine_wood_side.png
 furniture:table_pine_wood top furniture_table_pine_wood_top.png
 furniture:table_pine_wood bottom furniture_table_pine_wood_top.png
 furniture:table_pine_wood sides furniture_table_pine_wood_side.png
-
+xdecor:cactusbrick all moreblocks_cactus_brick.png
+xdecor:chair all default_wood.png
+xdecor:empty_shelf bottom default_wood.png
+xdecor:empty_shelf sides moreblocks_empty_bookshelf.png
+xdecor:table all default_wood.png
