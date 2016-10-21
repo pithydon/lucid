@@ -47,6 +47,7 @@ moreblocks:clean_glass bottom moreblocks_clean_glass_detail.png
 moreblocks:clean_glass sides moreblocks_clean_glass_detail.png
 moreblocks:coal_glass bottom moreblocks_coal_glass_detail.png
 moreblocks:coal_glass sides moreblocks_coal_glass_detail.png
+moreblocks:empty_bookshelf sides moreshelves_empty.png
 moreblocks:glow_glass bottom moreblocks_glow_glass_detail.png
 moreblocks:glow_glass sides moreblocks_glow_glass_detail.png
 moreblocks:iron_glass bottom moreblocks_iron_glass_detail.png
@@ -65,7 +66,7 @@ xdecor:chair top furniture_chair_wood_top.png
 xdecor:chair bottom furniture_chair_wood_top.png
 xdecor:chair sides xdecor_chair_side.png
 xdecor:empty_shelf bottom default_wood.png
-xdecor:empty_shelf sides moreblocks_empty_bookshelf.png
+xdecor:empty_shelf sides moreshelves_empty.png
 xdecor:moonbrick all moreblocks_grey_bricks.png
 xdecor:stone_rune all moreblocks_circle_stone_bricks.png
 xdecor:stone_tile all moreblocks_stone_tile.png
